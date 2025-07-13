@@ -23,7 +23,6 @@
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Human0200&show_icons=true&theme=radical" alt="Статистика">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Human0200&layout=compact&theme=radical" alt="Топ языков">
-  <img src="https://streak-stats.demolab.com/?user=Human0200&theme=radical" alt="Стрик коммитов">
   
   <!-- Рабочая змейка через внешний сервис -->
   ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
