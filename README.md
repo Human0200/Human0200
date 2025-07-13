@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Анимированное приветствие (работает через GitHub) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF7&width=435&lines=Привет,+я+Антон+Русаков!;PHP%2FBitrix+разработчик;Fullstack+инженер" alt="Анимированный текст">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF7&width=435&lines=👋+Привет,+я+Антон;PHP%2FBitrix+разработчик;Fullstack+инженер;🚀+Создаю+мощные+веб-решения" alt="Анимированный текст">
 </div>
 
 ---
